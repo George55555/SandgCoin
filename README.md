@@ -1,0 +1,3 @@
+SandGCoin (SANDG)
+===================
+# SandgCoin
