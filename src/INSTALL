@@ -1,0 +1,9 @@
+Building SandGCoin
+
+See doc/readme-qt.rst for instructions on building SandGCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SandGCoin.
+
+See doc/build-*.txt for instructions on building SandGCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SandGCoin.
